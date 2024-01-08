@@ -40,7 +40,7 @@ The repository is organized into folders corresponding to the book's chapters or
 
 ## Contribution Guidelines
 
-Review [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this repository.
+Review [CONTRIBUTING.md](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/CONTRIBUTION.md) for guidelines on contributing to this repository.
 
 ## License
 
