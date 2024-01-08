@@ -44,4 +44,4 @@ Review [CONTRIBUTING.md](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusa
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/LICENSE).
