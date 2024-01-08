@@ -27,7 +27,7 @@ The repository is organized into folders corresponding to the book's chapters or
 
 1. **Clone the Repository:**
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution
     ```
 
 2. **Navigate to a Chapter:**
