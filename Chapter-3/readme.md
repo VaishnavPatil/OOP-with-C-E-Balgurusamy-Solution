@@ -68,3 +68,7 @@ Write a C++ program to print the following output using nested for loops:
 1. Compile the program using a C++ compiler (e.g., g++).
    ```bash
    g++ Exercise_3_3.cpp -o Exercise_3_3
+
+   ./Exercise_3_3
+
+Feel free to copy and use this content for your README.md file. If you have any further questions or requests, please let me know!
