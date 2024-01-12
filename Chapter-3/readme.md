@@ -39,7 +39,7 @@ Write a function that creates a vector of a user-given size `M` using the `new` 
 
 ## Code Overview
 
-- **File**: [Exercise_3_2.cpp](Exercise_3_2.cpp)
+- **File**: [Exercise_3_2.cpp](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/Chapter-3/Exercise_3_2.cpp)
 - **Function**: `int* createVector(int size)`: Dynamically allocates memory for an integer array of the specified size and returns a pointer to the first element.
 
 ## Usage
