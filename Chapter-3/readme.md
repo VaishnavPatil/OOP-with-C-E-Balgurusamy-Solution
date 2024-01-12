@@ -27,6 +27,24 @@ This program serves as a fundamental illustration of pointer usage in C++ for sw
 
 ---
 
-### Future Additions
+### Exercise 3.2
 
-Feel free to add more exercises and solutions to the Chapter 3 folder as you progress through the book. Ensure to update this readme to include links to new code files for each exercise.
+# Dynamic Memory Allocation in C++
+
+This C++ program demonstrates dynamic memory allocation by creating a vector of integers based on user input. It uses the `new` operator to allocate memory for the vector, and the program prompts the user to specify the size. After allocation, the memory is properly deallocated using the `delete[]` operator to prevent memory leaks.
+
+## Problem Statement
+
+Write a function that creates a vector of a user-given size `M` using the `new` operator.
+
+## Code Overview
+
+- **File**: [Exercise_3_2.cpp](Exercise_3_2.cpp)
+- **Function**: `int* createVector(int size)`: Dynamically allocates memory for an integer array of the specified size and returns a pointer to the first element.
+
+## Usage
+
+1. Compile the program using a C++ compiler (e.g., g++).
+   ```bash
+   Exercise_3_2.cpp -o Exercise_3_2
+
