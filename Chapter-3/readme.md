@@ -48,3 +48,23 @@ Write a function that creates a vector of a user-given size `M` using the `new` 
    ```bash
    Exercise_3_2.cpp -o Exercise_3_2
 
+# Triangular Number Pattern Generator
+
+This C++ program allows users to determine the size of a pattern and prints a triangular pattern of numbers. The user is prompted to input the size of the pattern, and the program then generates a pattern where each row consists of repeated numbers based on the row number.
+
+## Problem Statement
+
+Write a C++ program to print the following output using nested for loops:
+
+
+
+## Program Overview
+
+- **File**: [Exercise_3_3.cpp](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/Chapter-3/Exercise_3_3.cpp)
+- **Description**: The program uses nested loops to create a triangular pattern of numbers. However, please note that there is an error in the original version of the code where `i` is incorrectly used instead of `j` in the inner loop condition.
+
+## Usage
+
+1. Compile the program using a C++ compiler (e.g., g++).
+   ```bash
+   g++ Exercise_3_3.cpp -o Exercise_3_3
