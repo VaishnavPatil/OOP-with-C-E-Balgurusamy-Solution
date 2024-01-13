@@ -72,3 +72,37 @@ Write a C++ program to print the following output using nested for loops:
    ./Exercise_3_3
 
 Feel free to copy and use this content for your README.md file. If you have any further questions or requests, please let me know!
+
+
+# Investment Equation Calculator
+Exercise 3.4
+## Problem Statement
+
+You are tasked with developing a C++ program, named `Exercise_3_4.cpp`, to calculate and print the values of an investment equation for various combinations of principal amount (P), interest rate (r), and time (n). The investment equation is given by \(V = P(1+r)^n\), representing the future value of an investment based on its principal, interest rate, and time period.
+
+## Requirements
+
+1. Implement the program in C++.
+2. Use nested loops to iterate through predefined ranges of P, r, and n.
+3. Calculate the corresponding value of V for each combination of P, r, and n.
+4. Print the results in a table format.
+
+## Input Values
+
+The program should consider the following values:
+
+- **Principal Amount (P):** 1000, 2000, 3000, ..., 10000
+- **Interest Rate (r):** 0.10, 0.12, 0.13, ..., 0.20
+- **Time (n):** 1, 2, 3, ..., 10
+
+## Formula
+
+The investment equation is given by \(V = P(1+r)^n\). Note that \(P\) is the principal amount, \(r\) is the interest rate, \(n\) is the time, and \(V\) is the value of money at the end of \(n\) years.
+
+g++ Exercise_3_4.cpp -o Exercise_3_4
+./Exercise_3_4
+
+P = 1000, r = 0.10, n = 1, V = ...
+P = 1000, r = 0.10, n = 2, V = ...
+...
+
