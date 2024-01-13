@@ -75,7 +75,7 @@ Feel free to copy and use this content for your README.md file. If you have any 
 
 
 # Investment Equation Calculator
-Exercise 3.4
+**File**: [Exercise_3_4.cpp](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/Chapter-3/Exercise_3_4.cpp)
 ## Problem Statement
 
 You are tasked with developing a C++ program, named `Exercise_3_4.cpp`, to calculate and print the values of an investment equation for various combinations of principal amount (P), interest rate (r), and time (n). The investment equation is given by \(V = P(1+r)^n\), representing the future value of an investment based on its principal, interest rate, and time period.
