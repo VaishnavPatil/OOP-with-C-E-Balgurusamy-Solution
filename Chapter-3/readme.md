@@ -106,3 +106,28 @@ P = 1000, r = 0.10, n = 1, V = ...
 P = 1000, r = 0.10, n = 2, V = ...
 ...
 
+# Vote Counting Program
+### Exercise 3.5 Code: [Exercise_3_5.cpp](https://github.com/VaishnavPatil/OOP-with-C-E-Balgurusamy-Solution/blob/main/Chapter-3/Exercise_3_5.cpp)
+## Problem Statement
+
+An election is contested by five candidates. The candidates are numbered 1 to 5, and the voting is done by marking the candidate number on the ballot paper. Write a program to read the ballots and count the votes cast for each candidate using an array variable count. In case, a number read is outside the range 1 to 5, the ballot should be considered as a 'spoilt ballot', and the program should also count the number of spoilt ballots.
+
+## Program Overview
+
+This program reads and counts votes for five candidates based on user input. It handles spoilt ballots gracefully by checking if the entered candidate number is within the valid range (1 to 5).
+
+## Usage
+
+1. Enter the number of ballots.
+2. Provide the candidate number for each ballot.
+3. View the results showing the count for each candidate and the number of spoilt ballots.
+
+## Input Validation
+
+The program includes input validation to ensure that the entered values are valid integers and within the specified range.
+
+## How to Run
+
+1. Compile the program using your preferred compiler (e.g., g++ for C++).
+2. Run the executable.
+
